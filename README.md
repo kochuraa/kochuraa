@@ -1,5 +1,6 @@
-| ![Profile Views](https://komarev.com/ghpvc/?username=kochuraa&color=green&abbreviated=true) | ![Followers](https://img.shields.io/github/followers/kochuraa) | ![Stars](https://img.shields.io/github/stars/kochuraa) |
-|--|--|--|
+![Profile Views](https://komarev.com/ghpvc/?username=kochuraa&color=green&abbreviated=true)
+![Followers](https://img.shields.io/github/followers/kochuraa)
+![Stars](https://img.shields.io/github/stars/kochuraa)
 
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">Independent CTO & Cloud Architect | DevOps & Software Engineering Leader</h3>
