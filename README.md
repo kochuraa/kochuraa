@@ -18,6 +18,7 @@
     <a href="https://fb.com/andrew.kochura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrew.kochura" height="30" width="40" /></a>
     <a href="https://instagram.com/klark0327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="klark0327" height="30" width="40" /></a>
     <a href="https://medium.com/@kochuraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kochuraa" height="30" width="40" /></a>
+    <a href="/https://kochuraa.medium.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://kochuraa.medium.com/feed" height="30" width="40" /></a>
   </p>
 
 ### 📕 Latest Blog Posts
