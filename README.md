@@ -24,11 +24,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering AWS Lambda Functions: Best Practices with TypeScript &lpar;2025&rpar;](https://kochuraa.medium.com/mastering-aws-lambda-functions-best-practices-with-typescript-2025-ee9e82327019?source=rss-1366808c6d1a------2)
 - [Choosing the Right Programming Language for Your Service](https://kochuraa.medium.com/choosing-the-right-programming-language-for-your-service-94d366185c8b?source=rss-1366808c6d1a------2)
 - [How a One-Hour Intro Call Saved a Client $17,000: When AI-Generated Code Meets Human Expertise](https://kochuraa.medium.com/how-a-one-hour-intro-call-saved-a-client-17-000-when-ai-generated-code-meets-human-expertise-62313b535833?source=rss-1366808c6d1a------2)
 - [Regions, Availability Zones, and Edge Networks: Building Resilient Applications on AWS](https://kochuraa.medium.com/regions-availability-zones-and-edge-networks-building-resilient-applications-on-aws-234cbcb3af1c?source=rss-1366808c6d1a------2)
 - [The 50-Line Infrastructure Blueprint: Deploy Next.js Applications on AWS Amplify with Pulumi](https://kochuraa.medium.com/the-50-line-infrastructure-blueprint-deploy-next-js-applications-on-aws-amplify-with-pulumi-8eb1f5495804?source=rss-1366808c6d1a------2)
-- [AWS Cognito: The Unfiltered Review](https://kochuraa.medium.com/aws-cognito-the-unfiltered-review-89f073bd78c8?source=rss-1366808c6d1a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🛠️ My Tech Stack
